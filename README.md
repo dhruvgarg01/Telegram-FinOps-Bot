@@ -1,6 +1,6 @@
-# Serverless FinOps Telegram Bot
+# FinOps Telegram Bot
 
-An enterprise-grade, serverless Telegram bot built on AWS. It tracks crypto portfolios, fetches live weather/pricing data via external APIs, and features a secure S3 file vault.
+An enterprise-grade, Telegram bot built on AWS. It tracks crypto portfolios, fetches live weather/pricing data via external APIs, and features a secure S3 file vault.
 
 ## Architecture & Infrastructure
 Entirely provisioned via Infrastructure as Code (Terraform) targeting a live AWS Academy environment:
